@@ -9,7 +9,7 @@
 [![Build Status](https://www.travis-ci.com/beccalee123/04-buffers.svg?branch=master)](https://www.travis-ci.com/beccalee123/04-buffers)
 * [repo](https://github.com/beccalee123/04-buffers)
 * [travis](https://www.travis-ci.com/beccalee123/04-buffers)
-* [server](http://xyz.com)
+* [server](https://becca-04-buffers.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
