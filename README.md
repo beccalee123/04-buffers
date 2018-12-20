@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Buffers - File Transformers
 
-### Author: Student/Group Name
+### Author: Becca Lee
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/beccalee123/04-buffers.svg?branch=master)](https://www.travis-ci.com/beccalee123/04-buffers)
+* [repo](https://github.com/beccalee123/04-buffers)
+* [travis](https://www.travis-ci.com/beccalee123/04-buffers)
+* [server](http://xyz.com)
 
 ### Modules
 #### `modulename.js`
@@ -23,8 +23,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - Determined by ENV
 
 #### Running the app
 * `npm start`
