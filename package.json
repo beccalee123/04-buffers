@@ -1,0 +1,26 @@
+{
+  "name": "04-buffers",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beccalee123/04-buffers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beccalee123/04-buffers/issues"
+  },
+  "homepage": "https://github.com/beccalee123/04-buffers#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
