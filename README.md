@@ -4,7 +4,6 @@
 ## Buffers - File Transformers
 
 ### Author: Becca Lee
-Collaborate with Heather Cherewaty, Ryan Gallaway, Brent Woodward, and Siobhan Niess
 
 ### Links and Resources
 [![Build Status](https://www.travis-ci.com/beccalee123/04-buffers.svg?branch=master)](https://www.travis-ci.com/beccalee123/04-buffers)
