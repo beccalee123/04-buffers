@@ -1,13 +1,5 @@
 'use strict';
 
-//'use strict'; \n
-//\n
-//let array = ['Buddy', 'Hank', 'Leo'];
-//\n
-//array.forEach( name => {\n
-//  console.log(name);\n
-//})
-
 const fs = require('fs');
 
 let bufferOne = new Buffer('\'use strict\';\n');
@@ -24,3 +16,5 @@ fs.writeFile('./files/loop.js', finalBuffer, err => {
   if(err) {throw err;}
   console.log('File has been made');
 });
+
+module.exports = (arr);
